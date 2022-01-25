@@ -2,7 +2,7 @@
 
 ### What's This?
 
-This is a script that installs Ubuntu in termux without needing to root your device.
+#### This is a script that installs Ubuntu in termux without needing to root your device.
 ***
 ### Installation steps:
 #### 1) Update termux packages:
